@@ -1,2 +1,6 @@
 # REST-API-TS-typeorm
-CRUD de una REST API usando Nodejs, Typescript y Mysql a traves de un ORM llamado TypeORM.
+
+REST API written in TS which executes the basic operations of a CRUD through the ORM typerom which allows us to make inquiries to a SQL database without using SQL code, that is, it acts as an intermediary between our application the SQL database
+
+
+
